@@ -1,0 +1,9 @@
+body{background-color: #708090}
+img{width: 200px;
+height:250px;
+border: 5px solid #AD6633;
+cursor: hand;
+border-radius: 50%;}
+img:hover{border:2px solid #ffff00; zoom:130%;}
+h1{text-align: center; color: black; font-family: verdana;}
+p{color: #8B0000; font-family: Courier; font-size: 18px; text-align: center; font-weight: bold;}
